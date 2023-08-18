@@ -1,2 +1,2 @@
 # e-commer-react
-e-commer with react and twailign
+e-commer with react and tailwind
